@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ehanuefaes.zce.me/sitemap.xml
